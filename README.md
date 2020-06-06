@@ -1,1 +1,1 @@
-# Bankcrupty
+# Bankruptcy
